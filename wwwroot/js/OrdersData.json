@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "ID": 1,
+      "CustomerId": 1,
+      "ProductName": "IPhone",
+      "CountProd": 10,
+      "VendorID": 7,
+      "Vendor": "Apple",
+      "OrderDate": "10/25/2018"
+    },
+    {
+      "ID": 2,
+      "CustomerId": 1,
+      "ProductName": "Galaxy s10",
+      "CountProd": 20,
+      "VendorID": 2,
+      "Vendor": "Samsung",
+      "OrderDate": "09/20/2018"
+    },
+    {
+      "ID": 3,
+      "CustomerId": 2,
+      "ProductName": "Nokia lumia",
+      "CountProd": 15,
+      "VendorID": 6,
+      "Vendor": "Microsoft",
+      "OrderDate": "11/15/2018"
+    },
+    {
+      "ID": 4,
+      "CustomerId": 2,
+      "ProductName": "Lenovo Z5s",
+      "CountProd": 30,
+      "VendorID": 5,
+      "Vendor": "Lenovo",
+      "OrderDate": "10/20/2018"
+    },
+    {
+      "ID": 5,
+      "CustomerId": 2,
+      "ProductName": "HUAWEI P30 Pro",
+      "CountProd": 25,
+      "VendorID": 4,
+      "Vendor": "HUAWEI",
+      "OrderDate": "10/25/2017"
+    },
+    {
+      "ID": 6,
+      "CustomerId": 3,
+      "ProductName": "LG V30",
+      "CountProd": 10,
+      "VendorID": 1,
+      "Vendor": "LG",
+      "OrderDate": "05/25/2018"
+    },
+    {
+      "ID": 7,
+      "CustomerId": 3,
+      "ProductName": "LG V40",
+      "CountProd": 17,
+      "VendorID": 1,
+      "Vendor": "LG",
+      "OrderDate": "04/10/2018"
+    },
+    {
+      "ID": 8,
+      "CustomerId": 3,
+      "ProductName": "LG V50",
+      "CountProd": 22,
+      "VendorID": 1,
+      "Vendor": "LG",
+      "OrderDate": "10/22/2018"
+    },
+    {
+      "ID": 9,
+      "CustomerId": 4,
+      "ProductName": "Meizu Note 9",
+      "CountProd": 19,
+      "VendorID": 3,
+      "Vendor": "Meizu",
+      "OrderDate": "12/15/2017"
+    },
+    {
+      "ID": 10,
+      "CustomerId": 4,
+      "ProductName": "Meizu C9",
+      "CountProd": 35,
+      "VendorID": 3,
+      "Vendor": "Meizu",
+      "OrderDate": "11/05/2017"
+    },
+    {
+      "ID": 11,
+      "CustomerId": 5,
+      "ProductName": "Xiaomi Redmi Note 7",
+      "CountProd": 40,
+      "VendorID": 9,
+      "Vendor": "Xiaomi",
+      "OrderDate": "02/20/2018"
+    },
+    {
+      "ID": 12,
+      "CustomerId": 5,
+      "ProductName": "Google Pixel 3a",
+      "CountProd": 28,
+      "VendorID": 10,
+      "Vendor": "Google",
+      "OrderDate": "03/25/2018"
+    }
+  ]
+}
